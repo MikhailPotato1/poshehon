@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:#b3bd27;
+}
+.footer-container a {
+    text-decoration: none;
+    color: #b3bd27;
+}
+.footer-container a:hover {
+    background-color:rgb(70, 70, 70); ;
+}

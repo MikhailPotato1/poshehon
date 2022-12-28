@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Yeseva+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-container-fon p {
+    position:absolute;
+    
+}
+.main-container{
+    background-color:#e1e1e1 ;
+}
+.main-container-text ol span {
+    font-weight: bold;
+}
+
+.main-container-text ol  {
+    padding-left: 30px;
+}
+.main-container-text ul {
+    padding-left: 40px;
+    list-style-type: '- ';
+}
+.main-container-text a {
+    text-decoration: none;
+}

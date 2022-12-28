@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    max-width: 1260px;
+    margin: 0 auto;
+ }
+.main-container {
+    background-color:#e1e1e1 ;
+}
+
